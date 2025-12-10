@@ -49,11 +49,13 @@ footer {
     margin-top: 30px;
 }
 
-.Error {
-    color: red;
-    font-weight: normal;
+.Error{
+    color:red;
+    font-weight:normal;
 }
 
 label {
     font-weight: bold;
 }
+
+
